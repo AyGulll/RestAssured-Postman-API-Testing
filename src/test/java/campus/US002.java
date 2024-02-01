@@ -79,7 +79,7 @@ public class US002 {
 
 
     @Test
-    public void createNewStudentGroup() {
+    public void createCountry() {
         CountryName = randomGenerator.job().field() + randomGenerator.number().digits(5);
 
 
